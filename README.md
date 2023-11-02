@@ -1,5 +1,5 @@
 ### Hi there 👋
-Young Welsh developer
+Just a Welsh guy who wants to do some programming:
 - 😄 **Pronouns:** he/him
 - 🔭 **Skills:** Python (some HTML and CSS)
 - 🌱 **Want to learn:** C#, C++
