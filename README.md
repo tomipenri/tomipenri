@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text"/></a>
-</div>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Samarjit+Sahoo;Software+Engineer" width="auto" height="35"/>
+</p>
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1iNjExeGh0YmxoaDlneGsxZ3c0bTQ0YmwybmVwMmVtbDlnbXJwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExnkHnZ3lYzHbnG/giphy.gif" width="400" />
