@@ -19,16 +19,12 @@ Here are some ideas to get you started:
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=Thomas+Penri+Williams;Hey+there+%3AD;Proud+Cymro%3A+yma+o+hyd" alt="Header" />
 </p>
-
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1iNjExeGh0YmxoaDlneGsxZ3c0bTQ0YmwybmVwMmVtbDlnbXJwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExnkHnZ3lYzHbnG/giphy.gif" width="400" />
-</div>
 <div id="header" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=007-Tommy&theme=transparent" />
 </div>
 <div id="header" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=007-Tommy&theme=transparent" />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1iNjExeGh0YmxoaDlneGsxZ3c0bTQ0YmwybmVwMmVtbDlnbXJwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExnkHnZ3lYzHbnG/giphy.gif" width="400" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" width="400"/>
 </div>
 
 
