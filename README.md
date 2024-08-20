@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/l0ExnkHnZ3lYzHbnG" width="100"/>
+  <iframe src=&quot;https://giphy.com/embed/l0ExnkHnZ3lYzHbnG&quot; width=&quot;480&quot; height=&quot;233&quot; style=&quot;&quot; frameBorder=&quot;0&quot; class=&quot;giphy-embed&quot; allowFullScreen></iframe>
 </div>
