@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 <p align="center">
    <img src="banner.png" alt="Banner" />
 </p>
-<div id="header" align="center">
-  <p>I'm a 15yo student with a solid foundation in Python and C#. Proudly Welsh - on a journey to learn Welsh, French, and German. Always eager to expand my technical skills and knowledge.</p>
-</div>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=Thomas+Penri+Williams;Hey+there+%3AD;Proud+Cymro%3A+yma+o+hyd" alt="Header" />
 </p>
+<div id="header" align="center">
+  <p>I'm a 15yo student with a solid foundation in Python and C#. Proudly Welsh - on a journey to learn Welsh, French, and German. Always eager to expand my technical skills and knowledge.</p>
+  <h2>Currently: Learning and creating projects with a breadboard on a Raspberry Pi.</h2>
+</div>
 <div id="header" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=007-Tommy&theme=transparent" />
 </div>
