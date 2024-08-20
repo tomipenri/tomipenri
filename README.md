@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=007-Tommy&theme=transparent" />
 </div>
 <div id="header" align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?category=programming" alt="Random Dev Quote"/>
 </div>
 
 
