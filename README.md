@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=Thomas+Penri+Williams;Hey+there+%3AD;Proud+Cymro%3A+yma+o+hyd" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=Thomas+Penri+Williams;Hey+there+%3AD;Proud+Cymro%3A+yma+o+hyd" alt="Typing SVG" />
 </p>
 
 <div id="header" align="center">
