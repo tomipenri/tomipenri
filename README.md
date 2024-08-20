@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F79A00&width=435&lines=Thomas+Penri+Williams;Hey+there!+%3A);Proud+Cymro%3A+yma+o+hyd!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F79A00&width=435&lines=Thomas+Penri+Williams;Hey+there!+%3A+D;Proud+Cymro%3A+yma+o+hyd!)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1iNjExeGh0YmxoaDlneGsxZ3c0bTQ0YmwybmVwMmVtbDlnbXJwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExnkHnZ3lYzHbnG/giphy.gif" width="400" />
 </div>
