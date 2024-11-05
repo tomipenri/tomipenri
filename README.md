@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 </p>
 <div id="header" align="center">
   <p>I'm a 16yo student with a solid foundation in Python and C#. Proudly Welsh - on a journey to learn Welsh, French, and German. Always eager to expand my technical skills and knowledge.</p>
-  <h2>What am I doing currently?</h2>
-  <p>Learning about breadboard and Raspberry Pi.</p>
 </div>
 <div id="header" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=007-Tommy&theme=transparent" />
