@@ -19,7 +19,7 @@ Here are some ideas to get you started:
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=Thomas+Penri+Williams;Hey+there+%3AD;Proud+Cymro%3A+yma+o+hyd" alt="Header" />
 </p>
 <div id="header" align="center">
-  <p>I'm a 15yo student with a solid foundation in Python and C#. Proudly Welsh - on a journey to learn Welsh, French, and German. Always eager to expand my technical skills and knowledge.</p>
+  <p>I'm a 16yo student with a solid foundation in Python and C#. Proudly Welsh - on a journey to learn Welsh, French, and German. Always eager to expand my technical skills and knowledge.</p>
   <h2>What am I doing currently?</h2>
   <p>Learning about breadboard and Raspberry Pi.</p>
 </div>
